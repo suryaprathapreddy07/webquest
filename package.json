@@ -1,0 +1,15 @@
+{
+  "name": "web-quest",
+  "version": "1.0.0",
+  "description": "event project",
+  "default": "navbar.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "suryapathapreddy",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.5.0"
+  }
+}
