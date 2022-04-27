@@ -2,7 +2,7 @@
   "name": "web-quest",
   "version": "1.0.0",
   "description": "event project",
-  "default": "navbar.js",
+  "default": "app.js",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html"
